@@ -29,7 +29,7 @@
         },
         "ACCOUNTS": {
             "description": "Raw Link to your accounts, read the ReadMe for more info.",
-            "value": ""
+            "value": "https://nekobin.com/raw/nefedaburo"
         },
         "CHANNEL": {
             "description": "Channel link/@username for force join, leave for disabling force join. The bot must be admin in that channel.",
