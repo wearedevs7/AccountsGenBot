@@ -45,11 +45,11 @@
         },
         "REDIS_URI": {
             "description": "Redis Database URL, get it from redislabs.com. Read ReadMe for more info.",
-            "value": ""
+            "value": "redis-13511.c1.us-west-2-2.ec2.cloud.redislabs.com:13511"
         },
         "REDIS_PASSWORD": {
             "description": "Redis Database Password, get it from redislabs.com. Read ReadMe for more info.",
-            "value": ""
+            "value": "JSxVXpshiSYngGVkVRGvCHnWrKtgZn18"
         }
     },
     "buildpacks": [
