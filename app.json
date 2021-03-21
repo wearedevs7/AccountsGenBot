@@ -1,5 +1,5 @@
 {
-    "name": "Accounts Generator Bot",
+    "name": "Hustle Accounts Generator Bot",
     "description": "Python based bot to generate accounts.",
     "logo": "",
     "keywords": [
@@ -7,21 +7,21 @@
         "telethon",
         "telegram-bot"
     ],
-    "repository": "https://github.com/xditya/AccountsGenBot",
-    "website": "xditya.me",
-    "success_url": "https://t.me/BotzHub",
+    
+    
+    "success_url": "https://t.me/Hustle_Bots",
     "env": {
         "API_HASH": {
             "description": "You API HASH from my.telegram.org",
-            "value": ""
+            "value": "b2c81aace7412612bd7195438af94dbf"
         },
         "APP_ID": {
             "description": "You API ID from my.telegram.org",
-            "value": ""
+            "value": "2031518"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "1791525646:AAGAY1XbQjsajUZXobnJDxUPbO4cLTKgPDU"
         },
         "OWNER_ID": {
             "description": "Your Telegram UserID.",
@@ -33,7 +33,7 @@
         },
         "CHANNEL": {
             "description": "Channel link/@username for force join, leave for disabling force join. The bot must be admin in that channel.",
-            "value": ""
+            "value": "@Hustle_Bots"
         },
         "START": {
             "description": "Start message. Use {mention} to mention the other user.",
@@ -41,7 +41,7 @@
         },
         "ACC_NAME": {
             "description": "Name of the account the bot generates",
-            "value": ""
+            "value": "voot"
         },
         "REDIS_URI": {
             "description": "Redis Database URL, get it from redislabs.com. Read ReadMe for more info.",
